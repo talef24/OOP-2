@@ -1,0 +1,7 @@
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

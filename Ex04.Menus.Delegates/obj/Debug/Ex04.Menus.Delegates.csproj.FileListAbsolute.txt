@@ -1,0 +1,7 @@
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\talef\source\repos\B20 Ex04 Tal 313489288 Aileen 205834161\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
